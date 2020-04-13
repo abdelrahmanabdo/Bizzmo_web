@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 23.65625 23.815166" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<title>Calendar</title>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Calendar</dc:title>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs>
+<style/>
+</defs>
+<rect x=".76125" y="2.9314" width="22.13" height="20.13" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-2" x1=".76125" x2="22.881" y1="8.1414" y2="8.1414" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-3" x1="5.8212" x2="5.8212" y1=".77142" y2="5.0814" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-3" x1="17.821" x2="17.821" y1=".77142" y2="5.0814" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-2" x1="3.1812" x2="6.4712" y1="12.031" y2="12.031" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-2" x1="3.1812" x2="6.4712" y1="15.531" y2="15.531" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-2" x1="3.1812" x2="6.4712" y1="19.031" y2="19.031" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-2" x1="10.181" x2="13.471" y1="12.031" y2="12.031" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-2" x1="10.181" x2="13.471" y1="15.531" y2="15.531" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-2" x1="10.181" x2="13.471" y1="19.031" y2="19.031" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-2" x1="17.181" x2="20.471" y1="12.031" y2="12.031" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-2" x1="17.181" x2="20.471" y1="15.531" y2="15.531" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-2" x1="17.181" x2="20.471" y1="19.031" y2="19.031" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5px"/>
+</svg>

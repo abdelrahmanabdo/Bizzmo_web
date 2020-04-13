@@ -1,0 +1,59 @@
+
+// Body
+$body-bg: #ffffff; //sherif #f5f8fa;
+
+// Borders
+$laravel-border-color: darken($body-bg, 10%);
+$list-group-border: $laravel-border-color;
+$navbar-default-border: $laravel-border-color;
+$panel-default-border: $laravel-border-color;
+$panel-inner-border: $laravel-border-color;
+
+// Brands
+$brand-primary: #4c73aa; //sherif #3097D1;
+$brand-info: #8eb4cb;
+$brand-success: #2ab27b;
+$brand-warning: #cbb956;
+$brand-danger: #bf5329;
+
+// Typography
+$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
+$font-family-sans-serif: "Proxima Nova", Ariel, sans-serif; //sherif "Raleway", sans-serif;
+$font-size-base: 14px;
+$line-height-base: 1.6;
+$text-color: #323232; //sherif
+
+// Navbar
+$navbar-default-bg: #fcfcfc; //sherif #fff;
+$navbar-brand: #4c73aa !default; //sherif new;
+$navbar-default-brand-color: #4c73aa !default; //sherif new;
+
+//Jumbotron //sherif
+$jumbotron-color: #fff;
+$jumbotron-bg: #3964a1;
+
+//sherif
+$headings-color: #3964a1;
+
+// Buttons
+$btn-default-color: $text-color;
+
+// Inputs
+$input-border: lighten($text-color, 65%); //sherif lighten($text-color, 40%);
+$input-border-focus: lighten($brand-primary, 25%);
+$input-color-placeholder: lighten($text-color, 30%);
+
+// Panels
+$panel-default-heading-bg: #fff;
+
+$grey: #bfbfbf;
+$green: #00cc83;
+
+$dark-blue: #10476a;
+$teal: #65cee1;
+$pale-teal: #98dde7;
+$grey-text: #5b6565;
+$red: #f0433e;
+$light-blue: #175198;
+$green: #31bf73;
+$sun-flower: #febe22;

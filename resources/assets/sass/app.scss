@@ -1,0 +1,30 @@
+
+// Fonts
+// @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// css files
+//font awesome Sherif
+@import "~font-awesome/css/font-awesome.css";
+//select2 Sherif
+@import "~select2/dist/css/select2.min.css";
+@import "~bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css";
+@import "~datatables.net-bs/css/dataTables.bootstrap.min.css";
+@import "~toastr/build/toastr.min.css";
+@import "../css/typeahead-bs3.css";
+
+// Variables
+//@import "variables";
+@import "projectx";
+
+
+
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+// pell text editor style
+@import "pell";
+
+// Custom style
+@import "custom";
+
+

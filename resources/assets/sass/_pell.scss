@@ -1,0 +1,45 @@
+$pell-actionbar-color: #FFF !default;
+$pell-border-color: #c2c2c2 !default;
+$pell-border-style: solid !default;
+$pell-border-width: 1px !default;
+$pell-button-height: 30px !default;
+$pell-button-selected-color: #F0F0F0 !default;
+$pell-button-width: 30px !default;
+$pell-content-height: 80px !default;
+$pell-content-padding: 10px !default;
+$pell-font-size: 13px !default;
+
+.pell {
+  border: $pell-border-width $pell-border-style $pell-border-color;
+  box-sizing: border-box;
+}
+
+.pell-content {
+  box-sizing: border-box;
+  height: 80px;
+  outline: 0;
+  overflow-y: auto;
+  padding: $pell-content-padding;
+  border: $pell-border-width $pell-border-style $pell-border-color;
+}
+
+.pell-actionbar {
+  background-color: $pell-actionbar-color;
+  border: $pell-border-width $pell-border-style $pell-border-color;
+  border-bottom: none;
+}
+
+.pell-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  height: $pell-button-height;
+  outline: 0;
+  width: $pell-button-width;
+  vertical-align: bottom;
+  font-size: $pell-font-size;
+}
+
+.pell-button-selected {
+  background-color: $pell-button-selected-color;
+}

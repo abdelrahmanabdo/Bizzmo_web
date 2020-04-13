@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'eligcomp' => 'No eligible companies.',
+	'eligcompmsg' => 'You do not have any companies that are currently eligYou do not have any companies that are currently eligible for a credit request.',
+	'needvisit' => 'Schedule a site visit',
+	'needvisitmsg' => ' to schedule a site visit to your company to be able to process your credit request',
+	'acceptappointment' => 'Accept appointment',
+	'noauthapp' => 'You are not authorized for this appointment',
+	'cannotapp' => 'Cannot accept. The appointment status is ',
+	'completeappointment' => 'Complete appointment',
+	'cannotcomplete' => 'Cannot complete. The appointment status is ',
+	'rejectappointment' => 'Reject appointment',
+	'cannotreject' => 'Cannot reject. The appointment status is ',
+	'compBuyerNotActive' => 'Your buyer company is not active.',
+	'compBuyerNotConfirmed' => 'Your buyer company is not confirmed.',
+	'compSupplierNotActive' => 'Your supplier company is not active.',
+	'compSupplierNotConfirmed' => 'Your supplier company is not confirmed.',
+	'compHasCreditLine' => 'Your buyer company already has a credit line.',
+	'nosupppo' => 'There are no suppliers assigned to this company. Cannot create PO.',
+	'nobuyquot' => 'There are no buyers assigned to this company. Cannot create Quotation.',
+	'poapprove' => 'Approve PO',
+	'poapprovemsg' => 'This PO is already approved.',
+	'porejectedmsg' => 'This PO is rejected. Cannot approve.',
+	'noBuyerCompany' => 'You do not have any company that is eligible for a :context, create a buyer company first.',
+	'noSupplierCompany' => 'You do not have any company that is eligible for a :context, create a supplier company first.',
+	'ponoreleasesupplier' => 'The supplier of this PO is currently not active. PO cannot be released.',
+	'ponoreleasebuyer' => 'The buyer of this PO is currently not active. PO cannot be released.',
+	'quotationnoreleasesupplier' => 'The supplier of this quotation is currently not active. Quotation cannot be released.',
+	'quotationnoreleasebuyer' => 'The buyer of this quotation is currently not active. Quotation cannot be released.'
+];

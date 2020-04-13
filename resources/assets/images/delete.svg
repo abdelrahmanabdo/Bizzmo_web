@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-name="Layer 1" version="1.1" viewBox="0 0 18.6875 21.272024" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Delete</dc:title>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs>
+<style>.cls-1{fill:#66cee1;}.cls-2{fill:none;stroke:#f0433e;stroke-miterlimit:10;stroke-width:1.5px;}</style>
+</defs>
+<title>Delete</title>
+<polygon class="cls-2" transform="matrix(.85948 0 0 .85948 -8.0956 -5.882)" points="29.35 13.71 27.35 30.83 27.35 30.83 13.23 30.83 11.23 13.71" fill="none" stroke="#f0433e" stroke-miterlimit="10" stroke-width="1.5px"/>
+<line class="cls-2" x1="-.0078937" x2="18.703" y1="3.3229" y2="3.3229" fill="none" stroke="#f0433e" stroke-miterlimit="10" stroke-width="1.2892px"/>
+<polyline class="cls-2" transform="matrix(.85948 0 0 .85948 -8.0956 -5.882)" points="16.79 10.71 16.79 7.58 23.17 7.58 23.17 10.71" fill="none" stroke="#f0433e" stroke-miterlimit="10" stroke-width="1.5px"/>
+</svg>
+

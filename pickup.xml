@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<req:BookPURequest xmlns:req="http://www.dhl.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com book-pickup-global-req.xsd" schemaVersion="1.0">
+    <Request>
+        <ServiceHeader>
+            <MessageTime>2018-04-24T12:30:47-05:00</MessageTime>
+            <MessageReference>ABC-00-123ABC-00-123ABC-00-123</MessageReference>
+            <SiteID>metragroup</SiteID>
+  		    <Password>3qGy9Fw6MN</Password>
+        </ServiceHeader>
+   </Request>
+   <RegionCode>AP</RegionCode>
+    <Requestor>
+        <AccountType>D</AccountType>
+        <AccountNumber>953791204</AccountNumber>
+        <RequestorContact>
+            <PersonName>Mahmoud</PersonName>
+            <Phone>23162</Phone>
+            <PhoneExtension>5053</PhoneExtension>
+        </RequestorContact>
+    </Requestor>
+    <Place>
+        <LocationType>B</LocationType>
+        <CompanyName>Metra</CompanyName>
+        <Address1>1 main st.</Address1>
+        <Address2>norfolk st</Address2>
+        <PackageLocation>Infosys</PackageLocation>
+        <City>Kuala Lumpur</City>
+        <StateCode>MH</StateCode>
+        <DivisionName>California</DivisionName>
+        <CountryCode>MY</CountryCode>
+	<PostalCode>2516251</PostalCode>
+    </Place>
+    <Pickup>
+        <PickupDate>2018-04-30</PickupDate>
+        <ReadyByTime>10:20</ReadyByTime>
+        <CloseTime>14:20</CloseTime>
+        <Pieces>1</Pieces>
+        <weight>
+            <Weight>200</Weight>
+            <WeightUnit>K</WeightUnit>
+        </weight>
+    </Pickup>
+    <PickupContact>
+        <PersonName>Subhayu</PersonName>
+        <Phone>4801313131</Phone>
+        <PhoneExtension>5768</PhoneExtension>
+    </PickupContact>
+     <ShipmentDetails>
+        <AccountType>D</AccountType>
+        <AccountNumber>953791204</AccountNumber>
+        <BillToAccountNumber>953791204</BillToAccountNumber>
+        <AWBNumber>7520067111</AWBNumber>
+        <NumberOfPieces>1</NumberOfPieces>
+        <Weight>10.0</Weight>
+        <WeightUnit>K</WeightUnit>
+        <GlobalProductCode>D</GlobalProductCode>
+        <DoorTo>DD</DoorTo>
+        <DimensionUnit>C</DimensionUnit>
+        <InsuredAmount>10.00</InsuredAmount>
+        <InsuredCurrencyCode>USD</InsuredCurrencyCode>
+        <Pieces>
+            <Weight>9.9</Weight>
+            <Width>2</Width>
+            <Height>2</Height>
+            <Depth>2</Depth>
+        </Pieces>
+        <SpecialService>SS</SpecialService>
+        <SpecialService>TT</SpecialService>
+    </ShipmentDetails>
+</req:BookPURequest>

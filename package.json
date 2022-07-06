@@ -27,7 +27,7 @@
     "font-awesome": "^4.7.0",
     "inputmask": "^4.0.2",
     "jquery-mask-plugin": "^1.14.12",
-    "jquery-validation": "^1.18.0",
+    "jquery-validation": "^1.19.5",
     "laravel-echo": "^1.6.1",
     "moment": "^2.19.3",
     "node-sass": "^4.13.1",
